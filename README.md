@@ -1,6 +1,6 @@
 # amachiromaker
 
-> **Update:** All the files of amachiromaker are in the real picrew server, we have been fooled for years
+> **Update:** All the files of amachiromaker are in the actual picrew server, we have been fooled for years, this is a fork for changing all the files that reference the wayback machine server to the actual picrew server.
 
 I created this website since the [original one](https://picrew.me/image_maker/168503) was not accessible (as of November 2021; was taken down by its author 甘城なつき). Original website: [amachiromaker｜Picrew](https://picrew.me/image_maker/168503).
 
