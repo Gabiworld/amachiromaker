@@ -1,6 +1,9 @@
 # amachiromaker
 
-> **Update:** As of May 2022, Wayback Machine also excluded all the artworks. So, the download script provided in the repo will fail. Unfortunately, I cannot provide the artworks due to copyright reasons. You have to somehow find all the artworks yourself, otherwise it won't work (you will see blank images everywhere). You can check what files are needed and where they are located in `Makefile` after running `node scripts/generateMakefile.js`. There are over 1,000 items (it is not a easy task)...
+> **Update:** All the files of amachiromaker are in the real picrew server, we have been fooled for years, just change all the references of wayback machine to the real picrew server lol
+for example : "baseUrl": "http://web.archive.org/web/20210130063021/https://cdn.picrew.me",
+change it to this : "baseUrl": "https://cdn.picrew.me",
+yea it is so ez bruh
 
 I created this website since the [original one](https://picrew.me/image_maker/168503) was not accessible (as of November 2021; was taken down by its author 甘城なつき). Original website: [amachiromaker｜Picrew](https://picrew.me/image_maker/168503).
 
