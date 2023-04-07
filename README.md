@@ -1,9 +1,6 @@
 # amachiromaker
 
-> **Update:** All the files of amachiromaker are in the real picrew server, we have been fooled for years, just change all the references of wayback machine to the real picrew server lol
-for example : "baseUrl": "http://web.archive.org/web/20210130063021/https://cdn.picrew.me",
-change it to this : "baseUrl": "https://cdn.picrew.me",
-yea it is so ez bruh
+> **Update:** All the files of amachiromaker are in the real picrew server, we have been fooled for years
 
 I created this website since the [original one](https://picrew.me/image_maker/168503) was not accessible (as of November 2021; was taken down by its author 甘城なつき). Original website: [amachiromaker｜Picrew](https://picrew.me/image_maker/168503).
 
