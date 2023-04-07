@@ -5,7 +5,7 @@
 const fs = require('fs');
 const path = require('path')
 
-const cdnPrefix = "http://web.archive.org/web/20210130063021/https://cdn.picrew.me/app/image_maker"
+const cdnPrefix = "https://cdn.picrew.me/app/image_maker"
 
 const cfList = JSON.parse(fs.readFileSync(path.join(__dirname, "data", "cfList.json"), {
   encoding: "utf8",
